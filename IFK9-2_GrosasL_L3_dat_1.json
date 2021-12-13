@@ -1,0 +1,30 @@
+{
+	"players":[
+		{"name": "Juozas", "pts": 16, "fgPct" : 60.00},
+		{"name": "Romas", "pts": 34, "fgPct" : 50.00},
+		{"name": "Bronius", "pts": 10, "fgPct" : 70.00},
+		{"name": "Jonas", "pts": 40, "fgPct" : 56.00},
+		{"name": "Petras", "pts": 24, "fgPct" : 40.00},
+		{"name": "Marius", "pts": 42, "fgPct" : 51.00},
+		{"name": "Darius", "pts": 18, "fgPct" : 39.00},
+		{"name": "Kajus", "pts": 12, "fgPct" : 55.00},
+		{"name": "Lukas", "pts": 25, "fgPct" : 33.00},
+		{"name": "Mantas", "pts": 24, "fgPct" : 88.00},
+		{"name": "Joris", "pts": 30, "fgPct" : 44.00},
+		{"name": "Rob", "pts": 15, "fgPct" : 18.00},
+		{"name": "Al", "pts": 4, "fgPct" : 25.00},
+		{"name": "James", "pts": 61, "fgPct" : 70.00},
+		{"name": "Kazys", "pts": 10, "fgPct" : 77.00},
+		{"name": "Leonas", "pts": 12, "fgPct" : 12.00},
+		{"name": "Justas", "pts": 33, "fgPct" : 90.00},
+		{"name": "Rimas", "pts": 6, "fgPct" : 30.00},
+		{"name": "Tomas", "pts": 5, "fgPct" : 7.00},
+		{"name": "Gedas", "pts": 45, "fgPct" : 63.00},
+		{"name": "Kestas", "pts": 36, "fgPct" : 92.00},
+		{"name": "Simas", "pts": 10, "fgPct" : 60.00},
+		{"name": "Rytis", "pts": 10, "fgPct" : 40.50},
+		{"name": "Bob", "pts": 33, "fgPct" : 60.00},
+		{"name": "Vidas", "pts": 50, "fgPct" : 90.50},
+		{"name": "Algis", "pts": 11, "fgPct" : 50.00}
+	]
+}
